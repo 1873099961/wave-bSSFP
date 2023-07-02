@@ -12,6 +12,7 @@ Zhu Y, Wang C, Su S, Qiu Z, Yan Z, Liang D, Wang Y, Wang H. High resolution sing
 - Arrshow (https://github.com/tsumpf/arrShow)
 
 The source code is implemented or modified based on the following external reference:
+
 Qiu Z, Jia S, Su S, Zhu Y, Liu X, Zheng H, Liang D, Wang H.
 Highly Accelerated Parallel MRI Using Wave Encoding and Virtual Conjugate Coils.
 Magn Reson Med. 2021. DOI:10.1002/mrm.28803.
